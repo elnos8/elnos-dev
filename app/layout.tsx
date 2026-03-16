@@ -12,6 +12,11 @@ import siteMetadata from '@/data/siteMetadata'
 import { ThemeProviders } from './theme-providers'
 import { Metadata } from 'next'
 
+import { Geist, Geist_Mono } from 'next/font/google'
+
+const geist = Geist({ subsets: ['latin'] })
+const geistMono = Geist_Mono({ subsets: ['latin'] })
+
 const space_grotesk = Space_Grotesk({
   subsets: ['latin'],
   display: 'swap',
