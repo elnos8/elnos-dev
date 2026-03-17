@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://wwww.elnos.dev',
   siteRepo: 'https://github.com/elnos8/elnos-dev',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
-  socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
+  socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card-v2.png`,
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'h@elnos.dev',
   locale: 'en-US',
