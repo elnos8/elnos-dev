@@ -6,8 +6,8 @@ const siteMetadata = {
   description: 'Notes on Drupal, PHP 8.x, web dev, and things I figure out along the way.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://elnos.dev',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://wwww.elnos.dev',
+  siteRepo: 'https://github.com/elnos8/elnos-dev',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   mastodon: 'https://mastodon.social/@mastodonuser',
